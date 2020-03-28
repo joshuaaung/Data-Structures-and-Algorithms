@@ -1,2 +1,5 @@
 # Dependencies
 node_modules/
+
+# Transpiled codes directory (es6 -> es5)
+dist/

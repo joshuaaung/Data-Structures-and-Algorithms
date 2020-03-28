@@ -4,7 +4,8 @@
   "description": "Data Structures and Algorithms written in Javascript(ES6)",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "transpile": "babel ./src --out-dir dist",
+    "main": "node dist/index.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/joshuaaung/Data-Structures-and-Algorithms#readme",
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0"
   }
 }
