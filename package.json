@@ -1,0 +1,25 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms written in Javascript(ES6)",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuaaung/Data-Structures-and-Algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures",
+    "javascript",
+    "es6"
+  ],
+  "author": "Joshua Aung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuaaung/Data-Structures-and-Algorithms/issues"
+  },
+  "homepage": "https://github.com/joshuaaung/Data-Structures-and-Algorithms#readme"
+}
